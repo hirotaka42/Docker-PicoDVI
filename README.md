@@ -8,6 +8,7 @@ dockerのインストールが必要です。
 # How-to-use
 
 ```
+docker build -t picodvi-build-env .
 sh docker-run.sh
 ```
 
